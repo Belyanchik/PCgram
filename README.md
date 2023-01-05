@@ -33,11 +33,3 @@ And we are waiting for the packages to be installed
 4. ### The code is ready to use!
 
 Use the `/help` command to get information about the commands
-
-<h1 align="center">Example of work</h1>
-
-<p align="center"><img src="https://cdn.discordapp.com/attachments/967792782297170062/1034151323261730836/Screen_Recording_20221024-193645_Telegram_1.gif" alt="Launching the bot" width="150"></p>
-<p align="center">Launching the bot</p>
-
-<p align="center"><img src="https://cdn.discordapp.com/attachments/967792782297170062/1034151932333396028/2022-10-24_19-36-30_1.gif" alt="Result" width="250"></p>
-<p align="center">Result (This is GIF)</p>
